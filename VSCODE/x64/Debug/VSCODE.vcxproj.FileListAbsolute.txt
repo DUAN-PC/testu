@@ -1,0 +1,2 @@
+H:\vc++_pack\DUAN\VSCODE\x64\Debug\VSCODE.exe
+H:\vc++_pack\DUAN\a\VSCODE\x64\Debug\VSCODE.exe
