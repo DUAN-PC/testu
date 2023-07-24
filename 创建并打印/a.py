@@ -5,7 +5,7 @@ import win32com
 import win32print
 from win32com.client import Dispatch
 abs_path = os.path.abspath(__file__)
-abs_path=abs_path.replace("printa.py","")
+abs_path=abs_path.replace("a.py","")
 # --------------------------------------------------------
 # -- 需要修改的参数
 # --------------------------------------------------------
